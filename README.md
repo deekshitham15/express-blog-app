@@ -47,17 +47,17 @@ project/
 
 # Getting Started
 
-1️⃣ Clone the repository
-git clone https://github.com/your-username/blog-app.git
+1️⃣ Clone the repository <br>
+git clone https://github.com/your-username/blog-app.git  <br>
 cd blog-app
 
-2️⃣ Install dependencies
+2️⃣ Install dependencies <br>
 npm install
 
-3️⃣ Run the application
+3️⃣ Run the application  <br>
 node app.js
 
-4️⃣ Open in browser
+4️⃣ Open in browser  <br>
 http://localhost:3000
 
 ---
